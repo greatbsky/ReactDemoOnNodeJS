@@ -1,0 +1,21 @@
+{
+  "name": "proj-im-notify",
+  "version": "1.0.0",
+  "private": true,
+  "description": "immediate notify",
+  "scripts": {
+    "start": "node ./bin/startup.js"
+  },
+  "dependencies": {
+    "es6mvc": "^0.0.4"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "del": "^2.1.0",
+    "gulp": "^3.9.0",
+    "gulp-gzip": "^1.2.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-tar": "^1.8.0",
+    "mocha": "^2.3.4"
+  }
+}
